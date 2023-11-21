@@ -1,6 +1,6 @@
 {
   "name": "@ht/egg-redis",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "Redis plugin for egg",
   "eggPlugin": {
     "name": "redis"
@@ -21,7 +21,7 @@
     "database"
   ],
   "dependencies": {
-    "@types/ioredis": "^4.27.2",
+    "@types/ioredis": "^4.27.4",
     "await-first": "^1.0.0",
     "ioredis": "^4.27.9"
   },
@@ -30,12 +30,12 @@
     "autod": "^3.1.1",
     "egg": "^2.30.0",
     "egg-bin": "^4.16.4",
-    "egg-ci": "^1.18.0",
+    "egg-ci": "^1.19.0",
     "egg-mock": "^3.26.0",
     "eslint": "^7.32.0",
     "eslint-config-egg": "^9.0.0",
     "supertest": "^6.1.6",
-    "typescript": "^4.4.2",
+    "typescript": "^4.4.3",
     "utility": "^1.9.0"
   },
   "engines": {
